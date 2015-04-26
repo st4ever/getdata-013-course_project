@@ -35,7 +35,7 @@ Parameters for the project
 Steps to reproduce this project
 -------------------------------
 
-1. Download and unpack archive with data for analysis to you working directory for RStudio. 
+1. Download (url above) and unpack archive with data for analysis to your working directory for RStudio. 
 2. Open the R script `run_analysis.r` and execute it using RStudio. It calls the R Markdown file, `run_analysis.Rmd`, which contains the bulk of the code.
 
 Outputs produced
